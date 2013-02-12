@@ -1,0 +1,4 @@
+c:\users\poomae\documents\visual studio 2010\Projects\CustomSiteDefinition\CustomSiteDefinition\bin\Debug\CustomSiteDefinition.dll
+c:\users\poomae\documents\visual studio 2010\Projects\CustomSiteDefinition\CustomSiteDefinition\bin\Debug\CustomSiteDefinition.pdb
+c:\users\poomae\documents\visual studio 2010\Projects\CustomSiteDefinition\CustomSiteDefinition\obj\Debug\CustomSiteDefinition.dll
+c:\users\poomae\documents\visual studio 2010\Projects\CustomSiteDefinition\CustomSiteDefinition\obj\Debug\CustomSiteDefinition.pdb

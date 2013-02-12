@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="65616c7a-5460-4b99-b429-dfff840702e2" SharePointProductVersion="14.0">
+  <TemplateFiles>
+    <TemplateFile Location="SiteTemplates\CustomSiteDefinition\default.aspx" />
+    <TemplateFile Location="SiteTemplates\CustomSiteDefinition\Xml\onet.xml" />
+    <TemplateFile Location="1033\xml\webtemp_CustomSiteDefinition.xml" />
+  </TemplateFiles>
+</Solution>

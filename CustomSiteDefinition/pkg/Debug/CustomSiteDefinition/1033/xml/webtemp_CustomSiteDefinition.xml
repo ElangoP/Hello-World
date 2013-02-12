@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Templates xmlns:ows="Microsoft SharePoint">
+  <Template Name="CustomSiteDefinition" ID="10001">
+    <Configuration ID="0" Title="Elango Collaboration Site" Hidden="FALSE" ImageUrl="/_layouts/images/CPVW.gif" 
+                   Description="This definition creates a site for the team to creae, organize, and share general information"
+                   DisplayCategory="Elango Development">
+    </Configuration>    
+  </Template>
+</Templates>
